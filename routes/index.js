@@ -10,6 +10,7 @@ var postcodeWasteInformation = [
   "bins": [
     {"bincolour": "Grey",
      "description": "General Waste",
+     "qrcode": "https://i.postimg.cc/qq9r08PM/frame.png",
      "daysbetween": 21,
      "accepteditems": ["Polystyrene", "Polythene", "Carrier bags", "Plastic bags", "Tissues", "Napkins", 
      "Animal waste", "Animal litter", "Animal bedding", "Soiled food containers", "Oil", "Fat", "Cigarettes", "Broken crockery", "Cotton buds", "Cotton wool", "Contents of hoover", "Sweet papers", "Crisp packets"],
